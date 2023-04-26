@@ -1,5 +1,5 @@
 #Github.com-Vasusen-code
-https://github.com/vasusen-code/Telethon/archive/refs/tags/v1.24.0.zip
+
 ethon==0.1.2
 cryptg
 tgcrypto
